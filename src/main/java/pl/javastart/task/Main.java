@@ -12,7 +12,5 @@ public class Main {
         System.out.printf("%s %s %.2f", firstProductName, firstNameOfManufacturer, firstProductPrice);
         System.out.println();
         System.out.printf("%s %s %.2f", secondProductName, secondNameOfManufacturer, secondProductPrice);
-
-
     }
 }
